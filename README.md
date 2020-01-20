@@ -24,9 +24,9 @@ This document is to explain the use of AircraftCarrier Dataset and its metadata.
   The AircraftCarrier Dataset are publicly available, you are always free to obtain it. Nonetheless, the AircraftCarrier Dataset in their original resolutions may be subject to copyright, so we do not make them publicly available on the website.
 Consequently, if you are a researcher/educator who wish to have a copy of the original images for non-commercial research and/or educational use, we may provide them through E-mail, under certain conditions and at our discretion. The details are as follows:
  (1) You are asked to agree to and sign the following terms of access.
- (2) Send an E-mail with your full name, organization and your signature to us.
+ (2) Send an E-mail with your full name, organization and your signature to us,***@***.com.
  (3) We review your request. If we approve it, we will send you an E-mail with an attachment，which is the dataset.
- (4) You receive the E-mail and download the Aircraft Dataset.
+ (4) You receive the E-mail and download the AircraftCarrier Dataset.
 
 the terms of access:
 
