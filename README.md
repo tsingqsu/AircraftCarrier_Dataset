@@ -56,10 +56,8 @@ Consequently, if you are a researcher/educator who wish to have a copy of the or
   
   ***Notes: All of the codes we support work well dependent on Python3.6 & Pytorch 1.1.***
   
-  Our experiments were performed on a deep learning workstation with 3.5GHz Intel Core E5-2637v4 CPU, Nvidia GTX 1080Ti GPU with 11GB RAM and Ubuntu 16.04 operating system. The programming environment is based on Python language, PyCharm integrated development environment and Pytorch deep learning toolkit are used by GPU accelerated training.The details are showed in the paper.
+Our experiments were performed on a deep learning workstation with 3.5GHz Intel Core E5-2637v4 CPU, Nvidia GTX 1080Ti GPU with 11GB RAM and Ubuntu 16.04 operating system. The programming environment is based on Python language, PyCharm integrated development environment and Pytorch deep learning toolkit are used by GPU accelerated training.The details are showed in the paper.
   
-### This project includes series of files as follows:
-
   ### ‘InstanceCLS_train.py’
   
     Run it to train the net.
@@ -101,6 +99,4 @@ Consequently, if you are a researcher/educator who wish to have a copy of the or
   It shows the process to divide the images into two datasets, train dataset and test dataset, load the images and caculate the losses. 
     
   It also consists of the losses, optimzer and predictor etc.
-  
-    
-
+ 
