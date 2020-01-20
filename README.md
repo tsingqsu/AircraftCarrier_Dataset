@@ -58,11 +58,11 @@ Consequently, if you are a researcher/educator who wish to have a copy of the or
   
 Our experiments were performed on a deep learning workstation with 3.5GHz Intel Core E5-2637v4 CPU, Nvidia GTX 1080Ti GPU with 11GB RAM and Ubuntu 16.04 operating system. The programming environment is based on Python language, PyCharm integrated development environment and Pytorch deep learning toolkit are used by GPU accelerated training.The details are showed in the paper.
   
-  ### ‘InstanceCLS_train.py’
+  ### InstanceCLS_train.py
   
     Run it to train the net.
     
-  ### ‘InstanceCLS_test.py’
+  ### InstanceCLS_test.py
   
     Run it to get the classification accuracy results on AircraftCarrier dataset with different methods. 
     
