@@ -18,7 +18,7 @@ If you use AircraftCarrier dataset in your research, please cite:
 
 ## 1.Dataset Download
 
-The AircraftCarrier Dataset are publicly available, if you agree to the terms of its usage, you can obtain it by sending us a scanned [Applicant Form](https://github.com/tsingqsu/AircraftCarrier_Dataset/info/Application_Form.docx) to ***panggangming16@gmail.com***. We will send you an e-mail with a download link.
+The AircraftCarrier Dataset are publicly available, if you agree to the terms of its usage, you can obtain it by sending us a scanned [Applicant Form](https://github.com/tsingqsu/AircraftCarrier_Dataset/tree/master/info/Application_Form.docx) to ***panggangming16@gmail.com***. We will send you an e-mail with a download link.
 
 Note that we make no representations or warranties regarding the AircraftCarrier dataset, including but not limited to warranties of non-infringement or fitness for a particular purpose.
 
