@@ -24,7 +24,7 @@ Note that we make no representations or warranties regarding the AircraftCarrier
 
 ## 2. Dataset Introduction
 
-The dataset contains the following 20 categories: ``Liaoning (CV16)'', ``Cavour (CVH550)", ``Giuseppe Garibaldi (CVH551)'', ``USS Nimitz (CVN68)'', ``USS Dwight David Eisenhower (CVN69)'', ``USS Carl Vinson (CVN70)", ``USS Theodore Roosevelt (CVN71)'', ``USS Abraham Lincoln (CVN72)'', ``USS George Washington (CVN73)'', ``USS John C. Stennis (CVN74)'', ``USS Harry S. Truman (CVN75)'', ``USS Ronald Reagan (CVN76)'', ``USS George H.W. Bush (CVN77)'', ``USS Gerald R. Ford (CVN78)'', ``Juan Carlos I (L61)'', ``HMS Queen Elizabeth (R08)'', ``INS Viraat (R22)'', ``Charles de Gaulle (R91)'', ``HTMS Chakri Naruebet (R911)'' and ``Admiral Flota Sovetskogo Soyuza Kuznetsov (RN063)''. The following Figure presents examples of the 20 aircraft carriers.
+The dataset contains the following 20 categories: ``Liaoning (CV16)'', ``Cavour (CVH550)'', ``Giuseppe Garibaldi (CVH551)'', ``USS Nimitz (CVN68)'', ``USS Dwight David Eisenhower (CVN69)'', ``USS Carl Vinson (CVN70)'', ``USS Theodore Roosevelt (CVN71)'', ``USS Abraham Lincoln (CVN72)'', ``USS George Washington (CVN73)'', ``USS John C. Stennis (CVN74)'', ``USS Harry S. Truman (CVN75)'', ``USS Ronald Reagan (CVN76)'', ``USS George H.W. Bush (CVN77)'', ``USS Gerald R. Ford (CVN78)'', ``Juan Carlos I (L61)'', ``HMS Queen Elizabeth (R08)'', ``INS Viraat (R22)'', ``Charles de Gaulle (R91)'', ``HTMS Chakri Naruebet (R911)'' and ``Admiral Flota Sovetskogo Soyuza Kuznetsov (RN063)''. The following Figure presents examples of the 20 aircraft carriers.
 <img align="right" src="https://github.com/tsingqsu/AircraftCarrier_Dataset/info/fig_2.png">
 &nbsp;
 &nbsp;
@@ -42,5 +42,3 @@ Before running the code, you should download the dataset and modify the dataset 
    ```python
    python InstanceCLS_test.py
    ```
-
-
